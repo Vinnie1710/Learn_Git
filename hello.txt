@@ -1,4 +1,4 @@
-﻿Xin chao tu nguoi A
+Xin chao tu nguoi A
 Hoc Git that tot
 Toi dang hoc Git
 Toi da day Git len GitHub
