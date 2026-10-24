@@ -1,2 +1,3 @@
 Toi dang hoc Git branch
 Hoc cach git pull
+Hoc cach su dung git fetch
