@@ -1,1 +1,3 @@
 ﻿Xin chao Git
+Hoc Git that tot
+Toi dang hoc Git
